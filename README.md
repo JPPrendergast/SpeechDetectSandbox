@@ -8,7 +8,7 @@ TODO:
 Cropping audio to only voice, scaling, then transforming data to spectrogram for convolutional analysis.
 
 File structure:
-
+'''
 .
 ├── spectro
 │   ├── test
@@ -146,4 +146,4 @@ File structure:
         ├── wow
         ├── yes
         └── zero
-
+'''
